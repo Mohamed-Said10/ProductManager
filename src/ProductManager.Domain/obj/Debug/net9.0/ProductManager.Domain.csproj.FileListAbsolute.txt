@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\obj\Debug\net9.0\ProductManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\obj\Debug\net9.0\ProductManager.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\obj\Debug\net9.0\ProductManager.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\obj\Debug\net9.0\ProductManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\bin\Debug\net9.0\ProductManager.Domain.deps.json
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\bin\Debug\net9.0\ProductManager.Domain.dll
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\bin\Debug\net9.0\ProductManager.Domain.pdb
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\obj\Debug\net9.0\ProductManager.Domain.dll
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\obj\Debug\net9.0\refint\ProductManager.Domain.dll
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\obj\Debug\net9.0\ProductManager.Domain.pdb
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Domain\obj\Debug\net9.0\ref\ProductManager.Domain.dll

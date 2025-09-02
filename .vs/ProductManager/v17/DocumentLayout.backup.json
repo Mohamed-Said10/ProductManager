@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|solutionrelative:src\\productmanager.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|solutionrelative:src\\productmanager.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|solutionrelative:src\\productmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\commands\\validators\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\commands\\validators\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|solutionrelative:src\\productmanager.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4991833D-5631-401B-845F-7263E651A1FC}|src\\ProductManager.API\\ProductManager.API.csproj|solutionrelative:src\\productmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACFEDA6-83D2-4ACD-9595-903B47B62439}|src\\ProductManager.Infrastructure\\ProductManager.Infrastructure.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACFEDA6-83D2-4ACD-9595-903B47B62439}|src\\ProductManager.Infrastructure\\ProductManager.Infrastructure.csproj|solutionrelative:src\\productmanager.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7EB0DD-6933-446B-BB11-D0D29F677BD7}|src\\ProductManager.Domain\\ProductManager.Domain.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7EB0DD-6933-446B-BB11-D0D29F677BD7}|src\\ProductManager.Domain\\ProductManager.Domain.csproj|solutionrelative:src\\productmanager.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\queries\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\queries\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\commands\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\commands\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\commands\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\commands\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\commands\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\commands\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACFEDA6-83D2-4ACD-9595-903B47B62439}|src\\ProductManager.Infrastructure\\ProductManager.Infrastructure.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACFEDA6-83D2-4ACD-9595-903B47B62439}|src\\ProductManager.Infrastructure\\ProductManager.Infrastructure.csproj|solutionrelative:src\\productmanager.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7EB0DD-6933-446B-BB11-D0D29F677BD7}|src\\ProductManager.Domain\\ProductManager.Domain.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7EB0DD-6933-446B-BB11-D0D29F677BD7}|src\\ProductManager.Domain\\ProductManager.Domain.csproj|solutionrelative:src\\productmanager.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACFEDA6-83D2-4ACD-9595-903B47B62439}|src\\ProductManager.Infrastructure\\ProductManager.Infrastructure.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACFEDA6-83D2-4ACD-9595-903B47B62439}|src\\ProductManager.Infrastructure\\ProductManager.Infrastructure.csproj|solutionrelative:src\\productmanager.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7EB0DD-6933-446B-BB11-D0D29F677BD7}|src\\ProductManager.Domain\\ProductManager.Domain.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7EB0DD-6933-446B-BB11-D0D29F677BD7}|src\\ProductManager.Domain\\ProductManager.Domain.csproj|solutionrelative:src\\productmanager.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\queries\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\queries\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|c:\\users\\admin\\desktop\\my projects\\projectmanager\\src\\productmanager.application\\products\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257FDF8D-E3F7-4317-8872-B7C146C6C112}|src\\ProductManager.Application\\ProductManager.Application.csproj|solutionrelative:src\\productmanager.application\\products\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\Validators\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Commands\\Validators\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\Validators\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Commands\\Validators\\CreateProductCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:43:34.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.API\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\Program.cs",
+              "RelativeToolTip": "src\\ProductManager.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAawCsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:28:01.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\ProductManager.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\Dockerfile",
+              "RelativeToolTip": "src\\ProductManager.API\\Dockerfile",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T12:04:00.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-26T11:49:06.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\ProductManager.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:36:07.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\ProductManager.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\ProductManager.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T09:26:34.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\ProductManager.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.API\\appsettings.json",
+              "RelativeToolTip": "src\\ProductManager.API\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T16:13:11.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "src\\ProductManager.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:43:08.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Queries\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Queries\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Queries\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Queries\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:27:20.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Commands\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Commands\\DeleteProductCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:26:49.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "src\\ProductManager.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:13:20.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Commands\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Commands\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:26:22.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Commands\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Commands\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:25:26.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Queries\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Queries\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Queries\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Queries\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:24:38.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Commands\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\DeleteProductCommand.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Commands\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:22:58.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Commands\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\UpdateProductCommand.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Commands\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:22:38.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:22:15.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\ProductManager.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:34:34.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:33:01.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\ProductManager.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:12:05.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Domain\\Common\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "src\\ProductManager.Domain\\Common\\BaseAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:38:44.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\ProductManager.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:28:52.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:57:14.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Common\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Common\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Common\\MappingProfile.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Common\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:09:02.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Queries\\GetAllProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Queries\\GetAllProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Queries\\GetAllProductsQueryHandler.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Queries\\GetAllProductsQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:06:16.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Queries\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "src\\ProductManager.Application\\Products\\Queries\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\My Projects\\ProjectManager\\src\\ProductManager.Application\\Products\\Queries\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "src\\ProductManager.Application\\Products\\Queries\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:59:16.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

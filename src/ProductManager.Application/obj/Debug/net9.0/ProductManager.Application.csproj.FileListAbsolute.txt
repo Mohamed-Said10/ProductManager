@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.AssemblyInfo.cs
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Application.deps.json
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Application.dll
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Application.pdb
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Domain.dll
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Domain.pdb
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\ProductM.B6266756.Up2Date
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.dll
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\refint\ProductManager.Application.dll
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.pdb
+C:\Users\admin\Desktop\My Projects\ProjectManager\src\ProductManager.Application\obj\Debug\net9.0\ref\ProductManager.Application.dll
